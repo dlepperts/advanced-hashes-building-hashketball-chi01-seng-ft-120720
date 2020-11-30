@@ -120,7 +120,6 @@ def game_hash
       }]
     }
   }
-  p hash
 end
 
 game_hash
